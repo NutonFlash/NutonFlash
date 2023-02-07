@@ -3,3 +3,5 @@
 2. Commercial Products:
    - [Telegram Bot](https://github.com/NutonFlash/Telegram_Bot)
    - [Educational Website](https://github.com/NutonFlash/Educational_Website)
+## Languages and hard skills
+![java icon]()  
