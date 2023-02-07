@@ -4,5 +4,5 @@
    - [Telegram Bot](https://github.com/NutonFlash/Telegram_Bot)
    - [Educational Website](https://github.com/NutonFlash/Educational_Website)
 ## Languages and hard skills
-<img src="resources/java.svg" alt="https://www.java.com" height="64" width="64">
+<img src="https://www.java.com/" alt="https://www.java.com" height="64" width="64">
 <!-- ![https://www.java.com](resources/java.svg)   -->
