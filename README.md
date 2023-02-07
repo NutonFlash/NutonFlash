@@ -4,10 +4,10 @@
    - [Telegram Bot](https://github.com/NutonFlash/Telegram_Bot)
    - [Educational Website](https://github.com/NutonFlash/Educational_Website)
 ## Languages and hard skills
-<img src="resources/java.svg" alt="java logo" height="64" width="64">
-<img src="resources/spring.png" alt="spring boot logo" height="64" width="64">
-<img src="resources/python.png" alt="python logo" height="64" width="64">
-<img src="resources/docker.png" alt="docker logo" height="64" width="64">
-<img src="resources/mysql.svg" alt="mysql logo" height="64" width="64">
-<img src="resources/SQLite.png" alt="sqlite logo" height="64" width="64">
-<img src="resources/mongoDB.png" alt="mongoDB logo" height="64" width="64">
+<img src="resources/java.svg" alt="java logo" height="64" width="64" style="display: inline-block">
+<img src="resources/spring.png" alt="spring boot logo" height="64" style="display: inline-block">
+<img src="resources/python.png" alt="python logo" height="64" style="display: inline-block">
+<img src="resources/docker.png" alt="docker logo" height="64" style="display: inline-block">
+<img src="resources/mysql.svg" alt="mysql logo" height="64" width="64" style="display: inline-block">
+<img src="resources/SQLite.png" alt="sqlite logo" height="64" style="display: inline-block">
+<img src="resources/mongoDB.png" alt="mongoDB logo" height="64" style="display: inline-block">
