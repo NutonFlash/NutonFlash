@@ -9,7 +9,7 @@
    <img src="resources/spring.png" alt="spring boot logo" height="64" style="display: inline-block">
    <img src="resources/python.png" alt="python logo" height="64" style="display: inline-block">
    <img src="resources/docker.png" alt="docker logo" height="64" style="display: inline-block">
-   <img src="resources/mysql.svg" alt="mysql logo" height="64" width="64" style="display: inline-block">
+   <img src="resources/MySQL_logo.png" alt="mysql logo" height="64" width="64" style="display: inline-block">
    <img src="resources/SQLite.png" alt="sqlite logo" height="64" style="display: inline-block">
    <img src="resources/mongoDB.png" alt="mongoDB logo" height="64" style="display: inline-block">
 </div>
