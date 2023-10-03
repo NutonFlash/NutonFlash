@@ -13,3 +13,5 @@
    <img src="resources/SQLite.png" alt="sqlite logo" height="64" style="display: inline-block">
    <img src="resources/mongoDB.png" alt="mongoDB logo" height="64" style="display: inline-block">
 </div>
+## GitHub Stats
+[![NutonFlash's GitHub stats](https://github-readme-stats.vercel.app/api?username=nutonflash)](https://github.com/nutonflash/github-readme-stats)
