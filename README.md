@@ -42,9 +42,9 @@
 ## GitHub Stats
 <div>
 <a href="https://github.com/nutonflash/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-psi-gules-42.vercel.app/api?username=nutonflash&hide=issues,stars&show=prs_merged_percentage&show_icons=true&hide_title=true&rank_icon=github" />
+  <img height=200 src="https://github-readme-stats-psi-gules-42.vercel.app/api?username=nutonflash&hide=issues,stars&show=prs_merged_percentage&show_icons=true&hide_title=true&rank_icon=github&count_private=true" />
 </a>
 <a href="https://github.com/nutonflash/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-psi-gules-42.vercel.app/api/top-langs?username=nutonflash&langs_count=5&exclude_repo=GalaxyX&layout=donut" />
+  <img height=200 src="https://github-readme-stats-psi-gules-42.vercel.app/api/top-langs?username=nutonflash&langs_count=5&exclude_repo=GalaxyX&layout=donut" />
 </a>
 </div>
