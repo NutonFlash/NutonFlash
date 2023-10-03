@@ -18,12 +18,18 @@
    </div>
 </div>
 
-## Projects:
+## :man_technologist: About Me :
+- :books: Studying in the 3rd year of AI & Big Data at a university in South Korea
+- :computer: Working on the development of an open-source library and my own projects
+- :weight_lifting_man: Engaging in boxing and going to the gym
+- :guitar: Playing the guitar
+- :clinking_glasses: Attending parties with friends
+## :briefcase: Projects:
 1. [University Projects](https://github.com/NutonFlash/ITMO_University)
 2. Commercial Products:
    - [Telegram Bot](https://github.com/NutonFlash/Telegram_Bot)
    - [Educational Website](https://github.com/NutonFlash/Educational_Website)
-## Languages and hard skills
+## :hammer_and_wrench: Languages and hard skills
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="75px" height="75px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS logo" width="75px" height="75px">
