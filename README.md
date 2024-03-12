@@ -39,6 +39,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS logo" width="75px" height="75px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker logo" width="75px" height="75px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub logo" width="75px" height="75px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original-wordmark.svg" alt="GitHub logo" width="75px" height="75px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java logo" width="75px" height="75px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="SpringBoot logo" width="75px" height="75px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python logo" width="75px" height="75px">
