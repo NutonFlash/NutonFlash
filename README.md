@@ -1,6 +1,6 @@
 <div align="center" id="header">
    <div id="gif">
-      <img src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" width="200px">
+      <img src="https://github.com/NutonFlash/NutonFlash/blob/main/resources/developer.gif">
    </div>
    <div id="badges">
       <a href="https://www.linkedin.com/in/aleksei-kislitsin-ba8a9a231/">
