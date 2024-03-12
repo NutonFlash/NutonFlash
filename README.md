@@ -32,8 +32,8 @@
 ## :hammer_and_wrench: Languages and hard skills
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="75px" height="75px">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS logo" width="75px" height="75px">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS logo" width="75px" height="75px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS logo" width="75px" height="75px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="ReactJS logo" width="75px" height="75px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS logo" width="75px" height="75px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML logo" width="75px" height="75px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS logo" width="75px" height="75px">
