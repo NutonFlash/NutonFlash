@@ -33,6 +33,7 @@
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="75px" height="75px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS logo" width="75px" height="75px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS logo" width="75px" height="75px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS logo" width="75px" height="75px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML logo" width="75px" height="75px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS logo" width="75px" height="75px">
@@ -42,7 +43,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="SpringBoot logo" width="75px" height="75px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python logo" width="75px" height="75px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP logo" width="75px" height="75px">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++ logo" width="75px" height="75px">
 </div>
 
 ## GitHub Stats
