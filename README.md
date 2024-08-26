@@ -19,11 +19,12 @@
 </div>
 
 ## :man_technologist: About Me :
-- :books: Studying in the 3rd year of AI & Big Data at a university in South Korea
-- :computer: Working on the development of an open-source library and my own projects
-- :weight_lifting_man: Engaging in boxing and going to the gym
-- :guitar: Playing the guitar
-- :clinking_glasses: Attending parties with friends
+- :books: Study in the 4th year of AI&Big Data at the university in South Korea
+- :office: Work in the korean company, KREPS. Develop monitoring system for Smart Factories and Power Plants 
+- :computer: Like to contribute in open-source libraries and create own projects
+- :weight_lifting_man: Practice boxing and go to the gym
+- :guitar: Play the guitar
+- :clinking_glasses: Attend parties with friends
 ## :briefcase: Projects:
 1. [University Projects](https://github.com/NutonFlash/ITMO_University)
 2. Commercial Products:
